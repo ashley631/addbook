@@ -1,0 +1,59 @@
+html {
+    font-family: 'Maven Pro', sans-serif;
+}
+
+body{
+    background-image: url("img.jpg");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    position: relative;
+
+}
+
+
+input {
+    padding: 10px;
+    border-radius: 5px;
+    display: block;
+    text-align: center;
+    align-content: center;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+
+form {
+    border-radius: 5px;
+    background-color: rgb(179,178,176, 0.6);
+    width: 40%;
+    height: 60%;
+    display: flex;
+    color: white;
+    text-align: center;
+    align-content: center;
+    margin: 0 auto;
+    flex-direction: column;
+    padding: 10px;
+    overflow: hidden;
+    color:white;
+    
+
+}
+
+.container {
+    color: rgba(255,255,255,0.8);
+    align-content: center;
+    position: relative;
+    margin: 0 auto;
+    display: flex;
+    padding: 20px;
+
+}
+
+
+button {
+    padding: 10px;
+    align-content: center;
+
+}
